@@ -1,0 +1,20 @@
+.bg{
+    width: 960px;
+    height: 600px;
+    background-color: #e8e6e6;
+    margin: 0 auto;
+}
+.a{
+    width: 100px;
+    height: 100px;
+    background-color: orangered;
+    border-bottom-right-radius:100px ;
+}
+.b{
+    margin-top: 400px;
+    float:right;
+    width: 100px;
+    height: 100px;
+    background-color: orangered;
+    border-top-left-radius:100px ;
+}
